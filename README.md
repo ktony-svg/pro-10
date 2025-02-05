@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -12,5 +13,6 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 </script>
+
 </body>
 </html>
